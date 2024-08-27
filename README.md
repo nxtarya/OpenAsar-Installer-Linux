@@ -28,4 +28,4 @@ chmod +x installer.sh
 
 ## 4- Run the script with sudo
 ```bash
-sudo ./installer.sh /path/to/your/openasar/app.asar
+sudo ./installer.sh /path/to/your/downloaded/openasar/app.asar
