@@ -13,7 +13,7 @@ Welcome to the **OpenAsar Installer**, An unofficial script that replaces Discor
 ## 📜 Usage
 ## 1- Clone this repository
 ```bash
-https://github.com/ntarya/OpenAsar-Installer-Linux.git
+git clone https://github.com/ntarya/OpenAsar-Installer-Linux.git
 ```
 
 ## 2- Go to the cloned folder
