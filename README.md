@@ -31,4 +31,4 @@ chmod +x installer.sh
 sudo ./installer.sh /path/to/your/downloaded/openasar/app.asar
 ```
 
-# Make sure to restart your Discord client after installing
+# Make sure to restart your Discord client after installing (If it's open)
