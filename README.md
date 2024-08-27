@@ -12,13 +12,18 @@ Welcome to the **OpenAsar Installer**, An unofficial script that replaces Discor
 
 ## 📜 Usage
 ## 1- Clone this repository
-```https://github.com/ntarya/OpenAsar-Installer-Linux.git```
+```bash
+https://github.com/ntarya/OpenAsar-Installer-Linux.git```
 
 ## 2- Go to the cloned folder
-```cd Openasar-Installer-Linux```
+```bash
+cd Openasar-Installer-Linux
+```
 
 ## 3- Allow the script to run as executable
-```chmod +x installer.sh```
+```bash
+chmod +x installer.sh
+```
 
 ## 4- Run the script with sudo
 ```bash
