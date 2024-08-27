@@ -14,4 +14,4 @@ Welcome to the **OpenAsar Installer**, An unofficial script that replaces Discor
 Run the script like this:
 
 ```bash
-sudo ./OpenAsarInstaller.sh /path/to/your/app.asar
+sudo ./installer.sh /path/to/your/openasar/app.asar
