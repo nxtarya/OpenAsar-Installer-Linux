@@ -18,7 +18,7 @@ git clone https://github.com/ntarya/OpenAsar-Installer-Linux.git
 
 ## 2- Go to the cloned folder
 ```bash
-cd Openasar-Installer-Linux
+cd OpenAsar-Installer-Linux
 ```
 
 ## 3- Allow the script to run as executable
